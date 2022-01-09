@@ -1,3 +1,16 @@
+# Task Tracker App
+
+![image](https://user-images.githubusercontent.com/85257356/148702973-74641eb2-95df-4a18-a8f5-d84e913a6054.png)![image](https://user-images.githubusercontent.com/85257356/148702985-3f852c00-54cb-4dd4-93c1-58640fb8c049.png)
+
+
+## How to use it
+- Enter tasks in the form
+- Double click tasks to turn reminders on and off
+- Press X on the tasks to delete them
+
+## Try it out!
+https://ivanyu327.github.io/react-task-tracker/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
