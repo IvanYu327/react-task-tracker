@@ -1,7 +1,6 @@
 # Task Tracker App
 
-![image](https://user-images.githubusercontent.com/85257356/148702973-74641eb2-95df-4a18-a8f5-d84e913a6054.png)![image](https://user-images.githubusercontent.com/85257356/148702985-3f852c00-54cb-4dd4-93c1-58640fb8c049.png)
-
+Simple Task Tracker front end made with React
 
 ## How to use it
 - Enter tasks in the form
